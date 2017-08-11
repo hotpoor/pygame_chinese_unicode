@@ -1,2 +1,4 @@
 # pygame_chinese_unicode
 使用pygame来进行语音合成，这里采用讨巧的方式来进行策略，使用中文的unicode编码来做独立字的拼接，面对词组分词库的建立，需要更多的文本数据来收集。
+
+请使用demo_pinyin.py来参考
